@@ -31,7 +31,6 @@
 
 ---
 
-### 📫 Connect With Me
 
 <!-- <p align="center">
   <a href="https://twitter.com/akhwasim" target="_blank">
