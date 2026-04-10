@@ -27,10 +27,11 @@
 
 <p align="center">
   <!-- Fixed Stats Card Link -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akhwasim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="195" />
+ 
   
   <!-- Fixed Streak Card Link -->
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhwasim&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" height="195" />
+</p>
 
 ---
 
