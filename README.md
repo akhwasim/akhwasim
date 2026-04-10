@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/akhwasim.png" width="100px" style="border-radius: 50%;" />
-  <h1>Akhwasim</h1>
+  <h1>Wasim Akhtar </h1>
   <p><em>CS Student by day. Building Luna 🌙 in Rust at night.</em></p>
 </div>
 
@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Added Python, Docker, HTML, CSS, JS -->
+ 
   <img src="https://skillicons.dev/icons?i=rust,python,docker,git,linux,sqlite,vscode,figma,html,css,js&theme=dark" alt="Tech Stack" />
 </p>
 
@@ -30,8 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akhwasim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="195" />
   
   <!-- Fixed Streak Card Link -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhwasim&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" height="195" />
-</p>
+
 
 ---
 
