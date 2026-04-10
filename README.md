@@ -18,7 +18,7 @@
 
 <p align="center">
  
-  <img src="https://skillicons.dev/icons?i=rust,python,docker,git,linux,sqlite,vscode,figma,html,css,js&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,python,docker,git,github,linux,vscode,mysql,html,css,js&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
