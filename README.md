@@ -19,7 +19,14 @@ I enjoy building software that remembers, learns, and helps people without takin
 
 Currently building **[Luna](https://github.com/akhwasim/luna)**, an AI-powered terminal written in Rust, and **[Compass](https://github.com/akhwasim/Compass)**, an AI platform that helps developers find open source issues they can actually solve.
 
-📍 Bengaluru, India &nbsp;·&nbsp; 🎓 CS Student &nbsp;·&nbsp; 🟢 Open to internships & research &nbsp;·&nbsp; ✍️ Writing on dev.to
+<div align="center">
+
+![Bengaluru, India](https://img.shields.io/badge/📍%20Bengaluru,%20India-161B22?style=flat&labelColor=161B22&color=30363D)
+![Open to internships & research](https://img.shields.io/badge/●%20Open%20to%20internships%20%26%20research-161B22?style=flat&labelColor=161B22&color=238636)
+![CS Student](https://img.shields.io/badge/🎓%20CS%20Student-161B22?style=flat&labelColor=161B22&color=30363D)
+![Writing on dev.to](https://img.shields.io/badge/✍️%20Writing%20on%20dev.to-161B22?style=flat&labelColor=161B22&color=30363D)
+
+</div>
 
 ---
 
@@ -99,11 +106,7 @@ Currently building **[Luna](https://github.com/akhwasim/luna)**, an AI-powered t
 
 ---
 
-## GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akhwasim&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars&custom_title=Stats&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" />
-</div>
+## Contribution activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhwasim&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3" width="100%" />
