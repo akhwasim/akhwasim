@@ -1,48 +1,47 @@
-<div align="center">
-  <img src="https://github.com/akhwasim.png" width="100px" style="border-radius: 50%;" />
-  <h1>Wasim Akhtar </h1>
-  <p><em>CS Student by day. Building Luna 🌙 in Rust at night.</em></p>
-</div>
+# Hi, I'm Wasim 👋
+
+I'm a Computer Science student from Bengaluru, India. I like understanding how software works beneath the surface — and building things that are reliable, local-first, and actually useful.
+
+Right now I'm deep into systems programming and developer tools. I recently built **[Luna](https://github.com/akhwasim/luna)** — an AI-powered terminal assistant written in Rust that remembers your workflows, learns your patterns, and keeps you in control of execution.
+
+Beyond shipping projects, I'm thinking about longer-term questions around **adaptive computing** — what it would look like if software could gradually learn how its user works, while staying transparent and predictable. I write about what I'm building and exploring on [dev.to](https://dev.to/yourusername) and occasionally on Hacker News.
+
+I'm currently open to **internship and research opportunities** where I can keep building systems software and contribute to hard engineering problems.
 
 ---
 
-### 🚀 Current Mission: Luna
-> An AI-powered, standalone terminal built in Rust. Not a plugin. A complete replacement for bash/zsh with memory and safety.
+## What I work with
 
-- 🔗 [View Luna](https://github.com/akhwasim/luna)
-- 🐦 [Follow the Build on X](https://twitter.com/akhwasim)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## GitHub stats
 
-<p align="center">
- 
-  <img src="https://skillicons.dev/icons?i=rust,python,docker,git,github,linux,vscode,mysql,html,css,js&theme=dark" alt="Tech Stack" />
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akhwasim&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&custom_title=Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhwasim&layout=compact&theme=default&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## What I'm thinking about
 
-<p align="center">
-  <!-- Fixed Stats Card Link -->
- 
-  
-  <!-- Fixed Streak Card Link -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhwasim&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" height="195" />
-</p>
+- 🔧 **Building** — tools that feel personal and stay out of your way
+- 🧠 **Exploring** — adaptive computing, context-aware software, local-first AI
+- 📖 **Reading** — systems design, OS internals, human-computer interaction
+- ✍️ **Writing** — about what I build and why on [dev.to](https://dev.to/yourusername)
 
 ---
 
-### 📫 Connect With Me
+## Let's talk
 
-<p align="center">
-  <a href="https://twitter.com/akhwasim" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+I'm always happy to talk about systems programming, research ideas, or anything you're building.
 
-<div align="center">
-  <sub>Built with ❤️ in Bangalore, India 🇮🇳</sub>
-</div>
+[Portfolio](https://wasim.dev) · [dev.to](https://dev.to/yourusername) · [Email](https://mail.google.com/mail/?view=cm&to=your@email.com)
