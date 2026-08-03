@@ -47,7 +47,7 @@ Currently building **[Luna](https://github.com/akhwasim/luna)**, an AI-powered t
       <p>AI-powered platform that matches developers with open source issues they can actually solve.</p>
       <p>
         <a href="https://github.com/akhwasim/Compass">GitHub</a> ·
-        <strong>In development</strong>
+        <a href="https://compass-oss.netlify.app/">Live Site</a>
       </p>
     </td>
   </tr>
