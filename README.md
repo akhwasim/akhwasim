@@ -3,7 +3,7 @@
 
 # Hi, I'm Wasim Akhtar 👋
 
-**CS Student · Systems Programming · AI Developer Tools**
+**CS & AI/ML Student · AI Systems · Developer Tools · Trustworthy Software**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akhwasim.netlify.app-black?style=flat&logo=google-chrome&logoColor=white)](https://akhwasim.netlify.app/)
 [![dev.to](https://img.shields.io/badge/dev.to-@akhwasim-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/akhwasim)
@@ -13,58 +13,61 @@
 
 ---
 
-I'm a Computer Science student from Bengaluru, India, interested in systems programming, developer tools, and AI.
+I'm a Computer Science & Technology student specializing in Artificial Intelligence & Machine Learning at Presidency University, Bangalore.
 
-I enjoy building software that remembers, learns, and helps people without taking control away from them.
+I enjoy building systems where AI works alongside deterministic software rather than replacing it completely. My recent projects explore AI-assisted developer tools, software security, persistent AI systems, and grounded LLM reasoning.
 
-Currently building **[Luna](https://github.com/akhwasim/luna)**, an AI-powered terminal written in Rust, and **[Compass](https://github.com/akhwasim/Compass)**, an AI platform that helps developers find open source issues they can actually solve.
+I'm particularly interested in **AI systems, trustworthy AI, and adaptive computing** — especially how intelligent software can become more useful while remaining predictable, transparent, and under the user's control.
 
 <div align="center">
 
 ![Bengaluru, India](https://img.shields.io/badge/📍%20Bengaluru,%20India-161B22?style=flat&labelColor=161B22&color=30363D)
-![Open to internships & research](https://img.shields.io/badge/●%20Open%20to%20internships%20%26%20research-161B22?style=flat&labelColor=161B22&color=238636)
-![CS Student](https://img.shields.io/badge/🎓%20CS%20Student-161B22?style=flat&labelColor=161B22&color=30363D)
+![Open to opportunities](https://img.shields.io/badge/●%20Open%20to%20opportunities-161B22?style=flat&labelColor=161B22&color=238636)
+![CS & AI/ML Student](https://img.shields.io/badge/🎓%20CS%20%26%20AI%2FML%20Student-161B22?style=flat&labelColor=161B22&color=30363D)
 ![Writing on dev.to](https://img.shields.io/badge/✍️%20Writing%20on%20dev.to-161B22?style=flat&labelColor=161B22&color=30363D)
 
 </div>
 
 ---
 
-## Pinned Repositories
+## Selected Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>🌙 <a href="https://github.com/akhwasim/luna">Luna</a></h3>
-      <p>Memory-aware AI terminal built in Rust with local memory, safety-aware command execution, and multi-provider LLM support.</p>
+      <p>Local-first AI terminal built in Rust with persistent memory, multi-provider LLM support, and deterministic safety controls.</p>
       <p>
         <a href="https://github.com/akhwasim/luna">GitHub</a> ·
         <a href="https://dev.to/akhwasim/your-terminal-has-amnesia-i-spent-my-semester-trying-to-fix-that-3743">Engineering Blog</a>
       </p>
     </td>
+
+    <td width="50%">
+      <h3>🛡️ <a href="https://github.com/akhwasim/sentinel">Sentinel</a></h3>
+      <p>AI-assisted software supply-chain security analyzer combining dependency analysis, SBOM generation, threat intelligence, and grounded AI reasoning.</p>
+      <p>
+        <a href="https://github.com/akhwasim/sentinel">GitHub</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>🧭 <a href="https://github.com/akhwasim/Compass">Compass</a></h3>
-      <p>AI-powered platform that matches developers with open source issues they can actually solve.</p>
+      <p>Open-source issue recommendation platform combining deterministic ranking with bounded LLM reasoning to match developers with suitable issues.</p>
       <p>
         <a href="https://github.com/akhwasim/Compass">GitHub</a> ·
         <a href="https://compass-oss.netlify.app/">Live Site</a>
       </p>
     </td>
-  </tr>
-  <tr>
+
     <td width="50%">
       <h3>🌐 <a href="https://github.com/akhwasim/portfolio">Portfolio</a></h3>
-      <p>Personal portfolio site for projects, writing, and research notes.</p>
+      <p>Personal portfolio containing projects, engineering writing, and ongoing research explorations.</p>
       <p>
         <a href="https://github.com/akhwasim/portfolio">GitHub</a> ·
         <a href="https://akhwasim.netlify.app/">Live Site</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📄 <a href="https://github.com/akhwasim/portfolio/blob/main/Wasim_Akhtar_Resume.pdf">Resume</a></h3>
-      <p>Current resume hosted with the portfolio repo.</p>
-      <p>
-        <a href="https://github.com/akhwasim/portfolio/blob/main/Wasim_Akhtar_Resume.pdf">PDF</a>
       </p>
     </td>
   </tr>
@@ -75,28 +78,31 @@ Currently building **[Luna](https://github.com/akhwasim/luna)**, an AI-powered t
 ## Tech Stack
 
 ### Languages
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-### AI / ML
-![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-412991?style=flat&logo=openai&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning%20(PPO)-0D1117?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+### AI / Systems
 
-### Systems & Tools
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat&logo=openai&logoColor=white)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-0D1117?style=flat&logo=probot&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Tokio](https://img.shields.io/badge/Async%20I%2FO%20(Tokio)-000000?style=flat&logo=rust&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
-![CLI Tool Design](https://img.shields.io/badge/CLI%20Tool%20Design-0D1117?style=flat&logo=gnometerminal&logoColor=white)
-![Linux/WSL](https://img.shields.io/badge/Linux%2FWSL-FCC624?style=flat&logo=linux&logoColor=black)
-![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+### Web & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -106,7 +112,19 @@ Currently building **[Luna](https://github.com/akhwasim/luna)**, an AI-powered t
 
 ---
 
-## Contribution activity
+## What I'm Thinking About
+
+- 🔧 **Building** — AI systems and developer tools that solve practical problems.
+
+- 🛡️ **Exploring** — Reliable and trustworthy AI systems where deterministic foundations and AI reasoning work together.
+
+- 🧠 **Researching** — Adaptive computing and how software could learn from context and user behavior while remaining predictable and controllable.
+
+- ✍️ **Writing** — Engineering notes, project retrospectives, and lessons learned while building.
+
+---
+
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhwasim&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3" width="100%" />
@@ -114,17 +132,7 @@ Currently building **[Luna](https://github.com/akhwasim/luna)**, an AI-powered t
 
 ---
 
-## What I'm thinking about
-
-- 🔧 **Building** — Developer tools and AI systems that improve everyday workflows.
-
-- 🧠 **Exploring** — Adaptive computing, local-first AI, and trustworthy human-AI interaction.
-
-- ✍️ **Writing** — Engineering notes, project retrospectives, and lessons learned while building. On [dev.to](https://dev.to/akhwasim)
-
----
-
-## Contribution snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/akhwasim/akhwasim/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
