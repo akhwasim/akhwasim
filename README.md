@@ -115,13 +115,6 @@ I'm particularly interested in **AI systems, trustworthy AI, and adaptive comput
 
 ---
 
-## Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhwasim&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3" width="100%" />
-</div>
-
----
 
 ## What I'm thinking about
 
