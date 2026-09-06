@@ -32,6 +32,7 @@ I'm particularly interested in **AI systems, trustworthy AI, and adaptive comput
 
 ## Pinned Repositories
 
+
 <table>
   <tr>
     <td width="50%">
@@ -42,13 +43,17 @@ I'm particularly interested in **AI systems, trustworthy AI, and adaptive comput
         <a href="https://dev.to/akhwasim/your-terminal-has-amnesia-i-spent-my-semester-trying-to-fix-that-3743">Engineering Blog</a>
       </p>
     </td>
+  <tr>
     <td width="50%">
       <h3>🛡️ <a href="https://github.com/akhwasim/sentinel">Sentinel</a></h3>
       <p>AI-assisted software supply-chain security analyzer combining dependency analysis, SBOM generation, threat intelligence, and grounded AI reasoning.</p>
       <p>
-        <a href="https://github.com/akhwasim/sentinel">GitHub</a> ·
+        <a href="https://github.com/akhwasim/sentinel">GitHub</a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>🧭 <a href="https://github.com/akhwasim/Compass">Compass</a></h3>
       <p>Open-source issue recommendation platform combining deterministic ranking with bounded LLM reasoning to match developers with suitable issues.</p>
@@ -57,7 +62,6 @@ I'm particularly interested in **AI systems, trustworthy AI, and adaptive comput
         <a href="https://compass-oss.netlify.app/">Live Site</a>
       </p>
     </td>
-  </tr>
   <tr>
     <td width="50%">
       <h3>🌐 <a href="https://github.com/akhwasim/portfolio">Portfolio</a></h3>
@@ -65,13 +69,6 @@ I'm particularly interested in **AI systems, trustworthy AI, and adaptive comput
       <p>
         <a href="https://github.com/akhwasim/portfolio">GitHub</a> ·
         <a href="https://akhwasim.netlify.app/">Live Site</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📄 <a href="https://github.com/akhwasim/portfolio/blob/main/Wasim Akhtar - CV.pdf">Resume</a></h3>
-      <p>Current CV hosted with the portfolio repo.</p>
-      <p>
-        <a href="https://github.com/akhwasim/portfolio/blob/main/Wasim Akhtar - CV.pdf">PDF</a>
       </p>
     </td>
   </tr>
